@@ -10,10 +10,11 @@ App details:
             - Chirp feed ( displays all posts by users )            
 
 Requirements:
-	    1. Nodejs 
-	    2. npm
-	    3. mongodb 
 
+	1. node.js
+	2. npm
+	3. mongoDB
+	
 Execution Instruction:
 
     1. MongoDB : mongoDB service must be running
